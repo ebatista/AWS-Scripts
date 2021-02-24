@@ -1,6 +1,7 @@
 #!/bin/bash
 # Author Vinayak Gadad
 # Script displays users Active access keys with created date and the age of the keys.\n Only the keys that are 90 days olders
+# Forked from https://github.com/VinayakGadad/AWS-Scripts/tree/master/AWS-IAMLegacyKeys
 
 
 
